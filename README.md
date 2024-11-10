@@ -6,10 +6,24 @@
 
 ### ABOUT ME
 
-- 🎓 Software Engineering undergraduate at the [University of Brasília](http://www.unb.br).
-- ❤️ Passionate about Competitive Programming and Software Development.
-- 📚 Currently focused on learning databases and enhancing my problem-solving skills.
+- Software Engineering undergraduate at the [University of Brasília](http://www.unb.br).
+- Passionate about Competitive Programming and Software Development.
+- Currently focused on learning databases and enhancing my problem-solving skills.
 
+### MAIN SKILLS
+
+```javascript
+Interests = ['Competitive programming', 'Software development', 'Game development', 'Artificial intelligence']
+
+Skills = {
+    Programming_Languages: ['Python', 'C', 'C++', 'Java', 'C#', 'JavaScript', 'HTML', 'CSS', 'Assembly (RISC-V)'],
+    Game_Engines: ['Unity', 'Godot'],
+    Development_Environments: ['VSCode', 'Neovim'],
+    Version_Control: ['Git', 'GitHub'],
+    Design_Tools: ['Figma'],
+    Operating_Systems: ['Linux'],
+}
+```
 
 ### STATISTICS
 
