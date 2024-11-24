@@ -55,13 +55,13 @@ Sunday                   103 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 37 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +77,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2024 18:44:19 UTC
+ Last Updated on 24/11/2024 18:44:12 UTC
 <!--END_SECTION:waka-->
 ### CONTACT ME
 
