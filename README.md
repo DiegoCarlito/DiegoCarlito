@@ -28,7 +28,7 @@ Skills = {
 ### STATISTICS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2049%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -78,7 +78,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 18:48:50 UTC
+ Last Updated on 13/12/2024 18:47:30 UTC
 <!--END_SECTION:waka-->
 ### CONTACT ME
 
