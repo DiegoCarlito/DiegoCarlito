@@ -28,7 +28,7 @@ Skills = {
 ### STATISTICS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 18:43:28 UTC
+ Last Updated on 25/12/2024 18:43:02 UTC
 <!--END_SECTION:waka-->
 ### CONTACT ME
 
