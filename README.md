@@ -16,7 +16,7 @@
 Interests = ['Competitive programming', 'Software development', 'Game development', 'Artificial intelligence']
 
 Skills = {
-    Programming_Languages: ['Python', 'C', 'C++', 'Java', 'C#', 'JavaScript', 'HTML', 'CSS', 'Assembly (RISC-V)'],
+    Programming_Languages: ['Python', 'C', 'C++', 'C#', 'Java'],
     Game_Engines: ['Unity', 'Godot'],
     Development_Environments: ['VSCode', 'Neovim'],
     Version_Control: ['Git', 'GitHub'],
