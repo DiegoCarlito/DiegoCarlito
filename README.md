@@ -28,8 +28,6 @@ Skills = {
 ### STATISTICS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2056%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -55,13 +53,13 @@ Sunday                   82 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:44:25 UTC
+ Last Updated on 15/02/2025 18:41:15 UTC
 <!--END_SECTION:waka-->
 ### CONTACT ME
 
