@@ -2,15 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=35&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Diego." alt="Typing SVG" /></a>
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif?cid=790b7611db1hpcyxpht9vb2qapag4g251jevgml0ve3z438o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-
 ### ABOUT ME
 
-Software Engineering undergraduate at the [University of Brasília](http://www.unb.br).
+I am a Software Engineering student at the [University of Brasília](http://www.unb.br), currently in my 7th semester, with a strong interest in Competitive Programming and Full Stack Development. I enjoy working on challenging projects that combine creativity and technical efficiency, always striving to improve my skills and explore new technologies.  
 
-Passionate about Competitive Programming and Software Development.
-
-Currently focused on learning databases and enhancing my problem-solving skills.
+My experience comes from academic and personal projects, including game development and web applications. Currently, I am deepening my knowledge in both front-end and back-end development.
 
 ### MAIN SKILLS
 
@@ -91,3 +87,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 [![Linkedin: diegocarlito](https://img.shields.io/badge/-diegocarlito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocarlito/)](https://www.linkedin.com/in/diegocarlito/)
 [![Gmail: diego.carlito01@gmail.com](https://img.shields.io/badge/-diego.carlito01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.carlito01@gmail.com)](mailto:diego.carlito01@gmail.com)
+
+<p align="center">
+  <img src="https://pixeljoint.com/files/icons/full/lainroom_animated_002_unscaled.gif" width="100%">
+</p>
