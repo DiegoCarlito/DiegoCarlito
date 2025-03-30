@@ -14,10 +14,11 @@
 ```
 [![Linkedin: diegocarlito](https://img.shields.io/badge/-diegocarlito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocarlito/)](https://www.linkedin.com/in/diegocarlito/)
 [![Gmail: diego.carlito01@gmail.com](https://img.shields.io/badge/-diego.carlito01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.carlito01@gmail.com)](mailto:diego.carlito01@gmail.com)
+[![AtCoder Badge](https://cp-logo.vercel.app/atcoder/DiegoCarlito)](https://atcoder.jp/users/DiegoCarlito)
 
 ### ABOUT ME <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
 
-I am a Software Engineering student at the [University of Brasília](http://www.unb.br), currently in my 7th semester, with a strong interest in Competitive Programming and Full Stack Development. I enjoy working on challenging projects that combine creativity and technical efficiency, always striving to improve my skills and explore new technologies.  
+I am a Software Engineering student at the [University of Brasília](https://international.unb.br/), currently in my 7th semester, with a strong interest in Competitive Programming and Full Stack Development. I enjoy working on challenging projects that combine creativity and technical efficiency, always striving to improve my skills and explore new technologies.  
 
 My experience comes from academic and personal projects, including game development and web applications. Currently, I am deepening my knowledge in both front-end and back-end development.
 
@@ -28,7 +29,7 @@ Interests = ['Competitive programming', 'Software development', 'Game developmen
 
 Skills = {
     Programming_Languages: ['Python', 'C', 'C++', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS'],
-    Database: ['PostgreSQL'],
+    Database: ['PostgreSQL', 'MySQL'],
     Game_Engines: ['Unity', 'Godot'],
     Development_Environments: ['VSCode', 'Neovim'],
     Version_Control: ['Git', 'GitHub'],
