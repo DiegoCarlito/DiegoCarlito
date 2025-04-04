@@ -1,44 +1,41 @@
-```
+<center>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+there!;I'm+Diego+Carlito!" alt="Typing SVG" /></a> </h3>
 
-
-████████▄   ▄█     ▄████████    ▄██████▄   ▄██████▄  
-███   ▀███ ███    ███    ███   ███    ███ ███    ███ 
-███    ███ ███▌   ███    █▀    ███    █▀  ███    ███ 
-███    ███ ███▌  ▄███▄▄▄      ▄███        ███    ███ 
-███    ███ ███▌ ▀▀███▀▀▀     ▀▀███ ████▄  ███    ███ 
-███    ███ ███    ███    █▄    ███    ███ ███    ███ 
-███   ▄███ ███    ███    ███   ███    ███ ███    ███ 
-████████▀  █▀     ██████████   ████████▀   ▀██████▀  
-                                                                                                                                                                                                                                       
-
-```
-[![Linkedin: diegocarlito](https://img.shields.io/badge/-diegocarlito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocarlito/)](https://www.linkedin.com/in/diegocarlito/)
-[![Gmail: diego.carlito01@gmail.com](https://img.shields.io/badge/-diego.carlito01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.carlito01@gmail.com)](mailto:diego.carlito01@gmail.com)
-[![AtCoder Badge](https://cp-logo.vercel.app/atcoder/DiegoCarlito)](https://atcoder.jp/users/DiegoCarlito)
-
-### ABOUT ME <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
+<h3 align="left"> ABOUT ME </h3>
 
 I am a Software Engineering student at the [University of Brasília](https://international.unb.br/), currently in my 7th semester, with a strong interest in Competitive Programming and Full Stack Development. I enjoy working on challenging projects that combine creativity and technical efficiency, always striving to improve my skills and explore new technologies.  
 
 My experience comes from academic and personal projects, including game development and web applications. Currently, I am deepening my knowledge in both front-end and back-end development.
 
-### MAIN SKILLS
+---
 
-```javascript
-Interests = ['Competitive programming', 'Software development', 'Game development', 'Artificial intelligence']
+<h3 align="left"> MAIN SKILLS </h3>
+<table>
+  <tr>
+    <td><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR6OXNvanZmYzE4OTFzaWZhbTk3Z2tsM2kydm5qcmVxZGc0aGtmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIMlKqgdZgvo4/giphy.gif" width="100%" height="100%"></td>
+    <td><b>Languages</b><br>
+        <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+        <img align="center" src="https://img.shields.io/badge/python-%2300579D.svg?style=for-the-badge&logo=python&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+        <br><b>Frameworks</b><br>
+        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img align="center" src="https://img.shields.io/badge/fastapi-%23ffffff.svg?style=for-the-badge&logo=fastapi&logoColor=green">
+        <br><b>Databases</b><br>
+        <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        <br><b>Tools</b><br>
+        <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+        <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
+  </tr>
+</table>
 
-Skills = {
-    Programming_Languages: ['Python', 'C', 'C++', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS'],
-    Database: ['PostgreSQL', 'MySQL'],
-    Game_Engines: ['Unity', 'Godot'],
-    Development_Environments: ['VSCode', 'Neovim'],
-    Version_Control: ['Git', 'GitHub'],
-    Design_Tools: ['Figma'],
-    Operating_Systems: ['Linux']
-}
-```
+---
 
-### STATISTICS
+<h3 align="left"> STATISTICS </h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2058%20mins-blue)
@@ -97,3 +94,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 04/04/2025 18:47:22 UTC
 <!--END_SECTION:waka-->
+
+---
+<div align="left"> 
+  <a href = "mailto:diego.carlito01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegocarlito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+</center>
