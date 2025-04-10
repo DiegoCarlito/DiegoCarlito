@@ -10,28 +10,21 @@ My experience comes from academic and personal projects, including game developm
 ---
 
 <h3 align="left"> MAIN SKILLS </h3>
-<table>
-  <tr>
-    <td><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR6OXNvanZmYzE4OTFzaWZhbTk3Z2tsM2kydm5qcmVxZGc0aGtmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIMlKqgdZgvo4/giphy.gif" width="100%" height="100%"></td>
-    <td><b>Languages</b><br>
-        <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img align="center" src="https://img.shields.io/badge/python-%2300579D.svg?style=for-the-badge&logo=python&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-        <br><b>Frameworks</b><br>
-        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img align="center" src="https://img.shields.io/badge/fastapi-%23ffffff.svg?style=for-the-badge&logo=fastapi&logoColor=green">
-        <br><b>Databases</b><br>
-        <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-        <br><b>Tools</b><br>
-        <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-        <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
-  </tr>
-</table>
+
+```javascript
+Interests = ['Competitive programming', 'Software development', 'Game development', 'Artificial intelligence']
+
+Skills = {
+    Programming_Languages: ['Python', 'C', 'C++', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS'],
+    Frameworks: ['Node.js', 'FastAPI', 'React'],
+    Database: ['PostgreSQL', 'MySQL'],
+    Game_Engines: ['Unity', 'Godot'],
+    Development_Environments: ['VSCode', 'Neovim'],
+    Version_Control: ['Git', 'GitHub'],
+    Design_Tools: ['Figma'],
+    Operating_Systems: ['Linux']
+}
+```
 
 ---
 
