@@ -58,14 +58,13 @@ Sunday                   88 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ████████████████████░░░░░   81.81 % 
-HTML                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 18:47:24 UTC
+ Last Updated on 19/04/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 ---
