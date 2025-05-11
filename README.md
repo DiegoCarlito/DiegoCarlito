@@ -31,7 +31,7 @@ Skills = {
 <h3 align="left"> STATISTICS </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 18:45:20 UTC
+ Last Updated on 11/05/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
 
 ---
